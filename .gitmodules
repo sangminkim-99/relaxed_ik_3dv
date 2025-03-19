@@ -1,0 +1,9 @@
+[submodule "src/franka_panda_description"]
+	path = src/franka_panda_description
+	url = https://github.com/justagist/franka_panda_description.git
+[submodule "src/sawyer_robot"]
+	path = src/sawyer_robot
+	url = https://github.com/RethinkRobotics/sawyer_robot.git
+[submodule "urdf_parser_py"]
+	path = urdf_parser_py
+	url = https://github.com/ros/urdf_parser_py.git
