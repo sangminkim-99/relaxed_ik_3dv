@@ -9,4 +9,4 @@
 	url = https://github.com/ros/urdf_parser_py.git
 [submodule "src/relaxed_ik_ros1"]
 	path = src/relaxed_ik_ros1
-	url = git@github.com:sangminkim-99/relaxed_ik_3dv.git
+	url = git@github.com:sangminkim-99/relaxed_ik_ros1.git
